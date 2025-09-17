@@ -1,6 +1,6 @@
 # 🧠 Cognitive Load Assessment via 3D-CNN
 
-### *Real-time NASA-TLX Prediction from Facial Video*
+### NASA-TLX Prediction from Facial Video*
 
 ---
 
